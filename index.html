@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Mono&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <title>
+      Easy Listening Music Player
+    </title>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="player">
+        <div class="player-bar">
+          
+            <div></div>
+            <div></div>
+          
+          <h1 class="fcc-title">Music Player</h1>
+          
+            <div></div>
+            <div></div>
+          
+        </div>
+        <div class="player-content">
+          <div id="player-album-art">
+            <img src="music/beach.jpg" alt="song cover art" />
+          </div>
+          <div class="player-display">
+            <div class="player-display-song-artist">
+              <p id="player-song-title"></p>
+              <p id="player-song-artist"></p>
+            </div>
+            <div class="player-buttons">
+              <button id="previous" class="previous" aria-label="Previous">
+                <img
+                  src="previous.png"
+                  width="24"
+                  height="19"
+                  alt="Previous Button"
+                />
+              </button>
+              <button id="play" class="play" aria-label="Play">
+                <img
+                src="play.png"
+                width="24"
+                height="19"
+                alt="Play Button"
+              />
+              </button>
+              <button id="pause" class="pause" aria-label="Pause">
+                <img
+                src="pause.png"
+                width="24"
+                height="19"
+                alt="Pause Button"
+              />
+              </button>
+              <button id="next" class="next" aria-label="Next">
+                <img
+                src="next.png"
+                width="24"
+                height="19"
+                alt="Next Button"
+              />
+              </button>
+              <button id="shuffle" class="shuffle" aria-label="Shuffle">
+                <img
+                src="shuffle.png"
+                width="24"
+                height="19"
+                alt="Shuffle Button"
+              />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="playlist">
+        <div class="playlist-bar">
+          
+            <div></div>
+            <div></div>
+         
+          <h2 class="playlist-title" id="playlist">Playlist</h2>
+          
+            <div></div>
+            <div></div>
+        
+        </div>
+        <ul id="playlist-songs"></ul>
+      </div>
+    </div>
+    <footer style="text-align: center">
+      <a target="_blank" href="https://icons8.com/icon/37590/previous">
+        icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+      </a>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
