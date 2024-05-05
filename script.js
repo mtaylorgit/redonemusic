@@ -40,6 +40,41 @@ const allSongs = [
     artist: "Pixabay",
     duration: "2:11",
     src: "https://github.com/mtaylorgit/mymusicplayer/blob/main/music/lofi-beat-140856.mp3?raw=true"
+  },
+  {
+    id: 5,
+    title: "Lofi Study 112191",
+    artist: "Pixabay",
+    duration: "2:37",
+    src: "https://github.com/mtaylorgit/mymusicplayer/blob/main/music/lofi-study-112191.mp3?raw=true"
+  },
+  {
+    id: 6,
+    title: "Once in Paris 168895",
+    artist: "Pixabay",
+    duration: "2:12",
+    src: "https://github.com/mtaylorgit/mymusicplayer/blob/main/music/once-in-paris-168895.mp3?raw=true"
+  },
+  {
+    id: 7,
+    title: "Sunset Vibes Lo Fichillhop",
+    artist: "Pixabay",
+    duration: "2:28",
+    src: "https://github.com/mtaylorgit/mymusicplayer/blob/main/music/sunset-vibes-lo-fichillhop-9503.mp3?raw=true"
+  },
+  {
+    id: 8,
+    title: "Untitled 123636",
+    artist: "Pixabay",
+    duration: "2:10",
+    src: "https://github.com/mtaylorgit/mymusicplayer/blob/main/music/untitled-123636.mp3?raw=true"
+  },
+  {
+    id: 9,
+    title: "Wish You Were Here 118975",
+    artist: "Pixabay",
+    duration: "2:36",
+    src: "https://github.com/mtaylorgit/mymusicplayer/blob/main/music/wish-you-were-here-118975.mp3?raw=true"
   }
 
 ];
