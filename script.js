@@ -39,7 +39,7 @@ const allSongs = [
     title: "Lofi-Beat 140856",
     artist: "Pixabay",
     duration: "2:11",
-    src: "https://github.com/mtaylorgit/mymusicplayer/blob/main/music/lofie-beat-140856.mp3?raw=true",
+    src: "https://github.com/mtaylorgit/mymusicplayer/blob/main/music/lofi-beat-140856.mp3?raw=true",
   }
 
 ];
