@@ -32,14 +32,14 @@ const allSongs = [
     title: "Little Break Lofi Beat 125830",
     artist: "Pixabay",
     duration: "2:00",
-    src: "https://github.com/mtaylorgit/mymusicplayer/blob/main/music/little-break-lofi-beat-125830.mp3?raw=true"
+    src: "https://github.com/mtaylorgit/mymusicplayer/blob/main/music/little-break-lofi-beat-125830.mp3?raw=true",
   },
   {
     id: 4,
     title: "Lofi-Beat 140856",
     artist: "Pixabay",
     duration: "2:11",
-    src: "https://github.com/mtaylorgit/mymusicplayer/blob/main/music/lofi-beat-140856.mp3?raw=true",
+    src: "https://github.com/mtaylorgit/mymusicplayer/blob/main/music/lofi-beat-140856.mp3?raw=true"
   }
 
 ];
