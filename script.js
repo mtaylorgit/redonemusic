@@ -36,7 +36,7 @@ const allSongs = [
   },
   {
     id: 4,
-    title: "Lofi-Beat 140856",
+    title: "Lofi Beat 140856",
     artist: "Pixabay",
     duration: "2:11",
     src: "https://github.com/mtaylorgit/mymusicplayer/blob/main/music/lofi-beat-140856.mp3?raw=true"
